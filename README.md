@@ -1,4 +1,5 @@
 # VisioMel Challenge: Predicting Melanoma Relapse
+1st place solution
 
 ## Setup Environment
 

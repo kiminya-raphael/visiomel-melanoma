@@ -1,4 +1,4 @@
-# VisioMel Challenge: Predicting Melanoma Relapse
+# [VisioMel Challenge: Predicting Melanoma Relapse](https://drivendata.co/blog/visiomel-melanoma-winners)
 1st place solution
 
 ## Setup Environment

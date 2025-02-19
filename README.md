@@ -1,5 +1,7 @@
 # [VisioMel Challenge: Predicting Melanoma Relapse](https://drivendata.co/blog/visiomel-melanoma-winners)
-1st place solution
+## 1st Place Solution
+
+Challenge overview: https://drivendata.co/blog/visiomel-melanoma-winners
 
 ## Setup Environment
 
@@ -10,7 +12,7 @@ sudo apt-get update -y --fix-missing
 sudo apt install -y build-essential libvips
 ```
 
-Install anaconda (https://www.anaconda.com) 
+Install [anaconda](https://www.anaconda.com) 
 
 `cd` to `solution` directory and create and activate conda environment
 
